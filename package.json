@@ -1,0 +1,11 @@
+{
+  "name": "keegoid-frame-print",
+  "version": "1.0.2",
+  "description": "My first npm package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
