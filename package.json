@@ -7,5 +7,9 @@
     "test": "jest"
   },
   "author": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/keegoid/keegoid-frame-print.git"
+	},
   "license": "ISC"
 }
